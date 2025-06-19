@@ -1,0 +1,7 @@
+transformers>=4.40.0
+datasets>=2.19.0
+torch>=2.2.0
+scikit-learn
+pandas
+tqdm
+gradio
