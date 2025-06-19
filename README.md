@@ -16,6 +16,10 @@ Leveraging the Hugging Face Transformers ecosystem, PyTorch, and A100 GPU accele
 
 * Metrics: Achieved training loss of 1.65, indicating strong convergence and high-quality generative outputs for domain-specific queries.
 
+**Interface**
+![Screenshot 2025-06-19 082155](https://github.com/user-attachments/assets/965fa645-1c7c-4930-aeab-0d661bd30c4b)
+
 **Reference** :
 * http://arxiv.org/abs/2106.09685 - original LoRA  paper
 * https://arxiv.org/abs/2307.09288 - original llama2 paper
+
