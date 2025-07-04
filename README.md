@@ -12,6 +12,8 @@ Leveraging the Hugging Face Transformers ecosystem, PyTorch, and A100 GPU accele
 
 * **Prompt Engineering & Inference**: Implements instruction-tuned prompts for robust, context-rich medical QA.
 
+* **GPU Optimisation**: Leverages float16 precision to accelerate training, reduce inference time significantly (half) and memory usage on GPUs, maintaining high accuracy with minimal precision degradation.
+
 * Production-Grade Pipeline: **End-to-end workflow** from data preprocessing to model inference, ready for integration into clinical decision support systems and pharma knowledge bases.
 
 * Metrics: Achieved training loss of 1.65, indicating strong convergence and high-quality generative outputs for domain-specific queries.
