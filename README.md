@@ -6,7 +6,7 @@ Leveraging the Hugging Face Transformers ecosystem, PyTorch, and A100 GPU accele
 🧬 **Key Features**
 * Foundation Model: Llama 2 (Meta AI) as the base LLM
 
-* Parameter-Efficient Fine-Tuning: Utilizes **LoRA adapters** for lightweight, modular adaptation—enabling **up to 10x faster training and lower GPU memory consumption** compared to full fine-tuning.
+* Parameter-Efficient Fine-Tuning: Utilizes **LoRA adapters** for lightweight, modular adaptation—enabling **10x faster training and lower GPU memory consumption** compared to full fine-tuning.
 
 * MLOps-Ready: Seamless integration with **Hugging Face Transformers and PyTorch Lightning for reproducibility, experiment tracking, and scalable deployment.**
 
